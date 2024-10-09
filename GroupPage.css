@@ -1,0 +1,33 @@
+/* General group page styling */
+.group-page {
+    background-color: #3a3535;
+    padding: 40px;
+    text-align: center;
+}
+
+.group-page h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color:white;
+}
+.group-page h3 {
+    font-size: 28px;
+    font-weight: bold;
+    color:white;
+}
+
+.group-page p {
+    font-size: 18px;
+    color: white;
+    margin-top: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Additional styling for content */
+.group-page img {
+    width: 100px; /* Reduced size */
+    height: 100px; /* Reduced size */
+    border-radius: 50%; /* Circular shape */
+    margin-bottom: 20px;
+}
